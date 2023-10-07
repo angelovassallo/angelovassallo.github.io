@@ -1,0 +1,74 @@
+/* Reset di base per rimuovere margini e padding predefiniti */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Colore di sfondo bianco per contrasto */
+    color: #000000; /* Colore del testo nero di base */
+    line-height: 1.6;
+}
+
+/* Navbar */
+nav {
+    background-color: #000000; /* Sfondo nero */
+    overflow: auto;
+    padding: 1rem 5%;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #00aaff; /* Colore azzurro per i link */
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+nav a:hover {
+    background-color: #00aaff; /* Sfondo azzurro al passaggio del mouse */
+    color: #000000; /* Testo nero al passaggio del mouse */
+}
+
+/* Intestazioni */
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 1rem;
+    color: #00aaff; /* Colore azzurro per le intestazioni */
+}
+
+/* Sezioni */
+section {
+    padding: 2rem 5%;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e0e0e0; /* Un sottile bordo tra le sezioni */
+}
+
+/* Link dei post del blog */
+article a {
+    display: block;
+    background-color: #000000; /* Sfondo nero */
+    color: #00aaff; /* Colore azzurro del testo */
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+article a:hover {
+    background-color: #00aaff; /* Sfondo azzurro al passaggio del mouse */
+    color: #000000; /* Testo nero al passaggio del mouse */
+}
+
+
