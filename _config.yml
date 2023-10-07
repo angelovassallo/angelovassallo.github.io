@@ -1,0 +1,14 @@
+title: Il tuo titolo
+email: tuo@email.com
+description: >- # questa è una descrizione breve del tuo sito
+  Il tuo sito web personale creato con Jekyll.
+baseurl: "" # il subpath del tuo sito, ad es. /blog
+url: "https://angelovassallo.github.io" # l'URL base del tuo sito
+twitter_username: mionome
+github_username:  mionome
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
