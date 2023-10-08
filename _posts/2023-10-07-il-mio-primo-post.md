@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Il mio primo post
+title: Inizia l'avventura
 ---
 
-Contenuto dell'articolo...
+Un blog per parlare delle mie passioni!
+Condividere codice e iniziare un viaggio nella programmazione open source.
+[Scopri di più su di me](/about/).
 

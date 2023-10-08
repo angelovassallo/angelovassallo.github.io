@@ -3,16 +3,17 @@ layout: default
 title: Home
 ---
 
-# Benvenuto nella mia pagina
+# Angelo Vassallo Personal Site
 
 ## About
 
-Breve descrizione su di te. [Scopri di più su di me](/about/).
+Ciao. Sono Angelo, 23 anni Bergamo.
+Amo scrivere codice e studio Ingegneria informatica all'UniBG.
+[Scopri di più su di me](/about/).
 
 ## Portfolio
 
-- [Lavoro 1](link-al-tuo-lavoro1.html)
-- [Lavoro 2](link-al-tuo-lavoro2.html)
+Niente per ora...
 
 ## Blog
 

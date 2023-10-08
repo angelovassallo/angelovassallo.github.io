@@ -1,7 +1,5 @@
 /* Reset di base per rimuovere margini e padding predefiniti */
 * {
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
 }
 
