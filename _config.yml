@@ -1,11 +1,11 @@
-title: Il tuo titolo
-email: tuo@email.com
+title: Angelo Vassallo (AngVas) personal site
+email: angelovassallo123@proton.me
 description: >- # questa è una descrizione breve del tuo sito
-  Il tuo sito web personale creato con Jekyll.
+  My protfolio, projects and personal interests.
 baseurl: "" # il subpath del tuo sito, ad es. /blog
 url: "https://angelovassallo.github.io" # l'URL base del tuo sito
-twitter_username: mionome
-github_username:  mionome
+twitter_username: angelovassallo
+github_username:  angelovassallo
 
 # Build settings
 markdown: kramdown

@@ -8,17 +8,25 @@ title: Home
 ## About
 
 Ciao. Sono Angelo, 23 anni Bergamo.
-Amo scrivere codice e studio Ingegneria informatica all'UniBG.
-[Scopri di più su di me](/about/).
+Amo scrivere codice opensource e studio Ingegneria informatica all'UniBG.
+Questo è il mio portfolio website in cui pubblico i progetti a cui lavoro. 
 
 ## Portfolio
 
-Niente per ora...
+### Calcolo del BMI web app
+Realizzazione di una web app per [Marco](https://nutrizionistabergamo.it).
+
+### Landing design e porting
+Landing page design, porting in Bootstrap 5 per il [nutrizionista Bonazzi](https://nutrizionistabonazzi.it/biologo-nutrizionista-sportivo/) di Bergamo.
 
 ## Blog
 
-Ultime dal blog:
+Il mio [Blog](/blog/). Qui trovi articoli sui miei interessi:
+- Atalanta
+- Programmazione Perl
+- Webdesign e JS
+- Città di Bergamo
+- Fitness, palestra e nutrizione
+- Linux
 
-{% for post in site.posts limit:1 %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
+
