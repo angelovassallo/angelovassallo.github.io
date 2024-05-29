@@ -5,7 +5,7 @@ title: About
 
 # Chi sono
 
-Ehi! Se sei capitato qui, probabilmente vuoi sapere chi c'è dietro a questo blog. Be', ciao! Sono Angelo Vassallo, un bergamasco doc di 23 anni. Tifoso della Dea, ovviamente! Non chiedermi perché, ma tra una partita e l'altra, mi sono ritrovato a imparare linguaggi come Perl, Python e JavaScript all'[UniBG](/home/).
+Ehi! Se sei capitato qui, probabilmente vuoi sapere chi c'è dietro a questo blog. Be', ciao! Sono Angelo Vassallo, un bergamasco doc di 23 anni. Tifoso della Dea, ovviamente! Non chiedermi perché, ma tra una partita e l'altra, mi sono ritrovato a imparare linguaggi come Perl, Python e JavaScript all'[UniBG](/).
 
 Adoro scrivere codice, ma non pensare a me come al solito nerd chiuso in camera: tra un "for loop" e un "if statement", non disdegno una birra in Città Alta o una gita con gli amici. E ogni tanto mi diverto anche a fare il web designer.
 
