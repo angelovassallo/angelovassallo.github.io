@@ -14,7 +14,7 @@ Questo è il mio portfolio website in cui pubblico i progetti a cui lavoro.
 ## Portfolio
 
 ### Calcolo del BMI web app
-Realizzazione di una web app per [Marco](https://nutrizionistabergamo.it).
+Realizzazione di una web app per [nutrizionistabergamo.it](https://nutrizionistabonazzi.it/nutrizionista-bergamo/).
 
 ### Landing design e porting
 Landing page design, porting in Bootstrap 5 per il [nutrizionista Bonazzi](https://nutrizionistabonazzi.it/biologo-nutrizionista-sportivo/) di Bergamo.
